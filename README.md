@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sazeen Mani Paudel</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
+<p>The reason I want to join the developer community is because I want to enhance my skills and refine my knowledge based on professional work flows. I want to put my skills into test so that I can know how far my progress has come and how much I still need to improve to become who I aspire to be!</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
